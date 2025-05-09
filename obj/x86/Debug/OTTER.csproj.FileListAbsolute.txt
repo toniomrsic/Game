@@ -1,0 +1,205 @@
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.xml
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Divna\Desktop\Vjezba 09 - prazno\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Petra\Desktop\Projekt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Petra\Desktop\Projekt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Petra\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Petra\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Petra\Desktop\Projekt\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Petra\Desktop\Projekt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Petra\Desktop\Projekt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Petra\Desktop\Projekt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Petra\Desktop\Projekt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Petra\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.csprojResolveAssemblyReference.cache
+C:\Users\Petra\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Petra\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Petra\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.Cache
+C:\Users\Petra\Desktop\Projekt\OTTER\bin\Debug\backgrounds\divljiZapad.jpg
+C:\Users\Petra\Desktop\Projekt\OTTER\obj\x86\Debug\OTTER.Pocetna.resources
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\backgrounds\back.jpg
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\backgrounds\divljiZapad.jpg
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\OTTER.xml
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\OTTER.exe
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.Pocetna.resources
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\sprites\velikiKamen.png
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\sprites\cekic1.png
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\sprites\maliKamen1.png
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\sprites\maliKamen2.png
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\backgrounds\desert.jpg
+C:\Users\Andjela\Desktop\Projekt_Anđela\OTTER\bin\Debug\backgrounds\desert1.jpg
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\bin\Debug\backgrounds\vatrapoz.gif
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\bin\Debug\sprites\KuglaP.png
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\bin\Debug\sprites\TopP.png
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.Pocetna.resources
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\Projekt_Anđela (2)\Projekt_Anđela\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\vatrapoz.gif
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\KuglaP.png
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\TopP.png
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Pocetna.resources
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\Pozadina1.jpg
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodenaKugla.png
+C:\Users\Tonio\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodeniTenk1.png
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\Pozadina1.jpg
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\vatrapoz.gif
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\KuglaP.png
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\TopP.png
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodenaKugla.png
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodeniTenk1.png
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Pocetna.resources
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Filip\Desktop\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\Pozadina1.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\vatrapoz.gif
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\KuglaP.png
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\TopP.png
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodenaKugla.png
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodeniTenk1.png
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Pocetna.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\kraj.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTest\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.KrajIgre.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\kraj.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\Pozadina1.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\vatrapoz.gif
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\KuglaP.png
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\TopP.png
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodenaKugla.png
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodeniTenk1.png
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.KrajIgre.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Pocetna.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\TonioUpdatedTest – kopija\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\kraj.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\Pozadina1.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\vatrapoz.gif
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\KuglaP.png
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodenaKugla.png
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodeniTenk1.png
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.KrajIgre.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Pocetna.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\kraj.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\Pozadina1.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\backgrounds\vatrapoz.gif
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\KuglaP.png
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodenaKugla.png
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\VodeniTenk1.png
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.KrajIgre.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Pocetna.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\TonioUpdatedTestD\TonioUpdatedTestD\Tonio\TonioProjkt\OTTER\obj\x86\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\backgrounds\kraj.jpg
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\backgrounds\Pozadina1.jpg
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\backgrounds\space2.jpg
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\backgrounds\vatrapoz.gif
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\sprites\KuglaP.png
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\sprites\VodenaKugla.png
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\sprites\VodeniTenk1.png
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\sprites\elf.png
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\OTTER.exe.config
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\OTTER.xml
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\bin\Debug\OTTER.pdb
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\obj\x86\Debug\OTTER.csprojAssemblyReference.cache
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\obj\x86\Debug\OTTER.BGL.resources
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\obj\x86\Debug\OTTER.KrajIgre.resources
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\obj\x86\Debug\OTTER.Pocetna.resources
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\obj\x86\Debug\OTTER.Properties.Resources.resources
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\obj\x86\Debug\OTTER.csproj.GenerateResource.cache
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\obj\x86\Debug\OTTER.exe
+C:\Users\Tonio\Desktop\Vatra_i_Voda\OTTER\obj\x86\Debug\OTTER.pdb
