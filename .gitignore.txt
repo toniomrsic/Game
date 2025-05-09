@@ -1,0 +1,17 @@
+# Ignoriraj build foldere
+bin/
+obj/
+
+# Visual Studio fajlovi
+*.user
+*.suo
+*.cache
+*.log
+
+# VS Code folder
+.vscode/
+
+# Izvršne i bibliotekarne datoteke
+*.exe
+*.dll
+*.pdb
